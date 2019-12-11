@@ -1,2 +1,2 @@
-# universal_adversarial_perturbation_generative_network_for_speaker_recognition
+# Introduction
 code for paper "Universal Adversarial Perturbations Generative Network for Speaker Recognition"
