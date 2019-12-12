@@ -27,7 +27,8 @@ If you use this code or part of it, please cite us!
 ### download dataset and pretrained model
  - you can download TIMIT dataset from the offficial site or [here](https://www.kaggle.com/nltkdata/timitcorpus)
  - download the pretrained speaker recognition model from [here](https://bitbucket.org/mravanelli/sincnet_models/), this model is released by the author of [SincNet](https://github.com/mravanelli/SincNet).
- - you can download LibriSpeech dataset from [here](http://www.openslr.org/12). you can download our reproducable speaker recognition model for LibriSpeech model from [here](googledrive).
+ - you can download LibriSpeech dataset from [here](http://www.openslr.org/12). you can download our reproducable speaker recognition model for LibriSpeech model from [here](https://drive.google.com/open?id=1AlFfwBY4Y72dJjVCHYAKCq4rry68qJve).
+ - you can download the pretrained models for our universal attacker from [here](https://drive.google.com/open?id=1yfFGXOyHMay9q7-0T7s_y0Vddr8s2fo1)
 
 
 
