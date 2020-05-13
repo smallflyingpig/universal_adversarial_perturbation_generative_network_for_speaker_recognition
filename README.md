@@ -10,7 +10,7 @@ Experimental results on TIMIT and LibriSpeech datasets demonstrate the effective
 
 # Cite us
 If you use this code or part of it, please cite us!  
-*Jiguo Li, Xinfeng Zhang, Chuanming Jia, Jizheng Xu, Li Zhang, Yue Wang, Siwei Ma, Wen Gao, "universal adversarial perturbations generative network for speaker recognition"* [arxiv(avaliable soon)]()
+*Jiguo Li, Xinfeng Zhang, Chuanming Jia, Jizheng Xu, Li Zhang, Yue Wang, Siwei Ma, Wen Gao, "universal adversarial perturbations generative network for speaker recognition"* [arxiv](https://arxiv.org/abs/2004.03428)
 
 
 # Prerequisites
