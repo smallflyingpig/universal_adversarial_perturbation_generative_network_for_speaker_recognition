@@ -10,7 +10,7 @@ Experimental results on TIMIT and LibriSpeech datasets demonstrate the effective
 
 # Cite us
 If you use this code or part of it, please cite us!  
-*Jiguo Li, Xinfeng Zhang, Chuanming Jia, Jizheng Xu, Li Zhang, Yue Wang, Siwei Ma, Wen Gao, "universal adversarial perturbations generative network for speaker recognition"* [arxiv](https://arxiv.org/abs/2004.03428)
+*Jiguo Li, Xinfeng Zhang, Chuanming Jia, Jizheng Xu, Li Zhang, Yue Wang, Siwei Ma, Wen Gao, "universal adversarial perturbations generative network for speaker recognition"* [arxiv](https://arxiv.org/abs/2004.03428), [IEEE Xplore](https://ieeexplore.ieee.org/document/9102886/).
 
 
 # Prerequisites
@@ -45,8 +45,8 @@ python ./universal_attacker/train_generator.py --output_dir ./output/generator/t
 The training for TIMIT dataset will cost about 2 day on a 1080ti GPU.
 
 
-# project home page(coming soon)
-our results, data, pretrained model can be found on our [speaker-recognition-attacker]() project main page.
+# project home page
+More results can be found on our [UAPs for speaker recognition](https://smallflyingpig.github.io/UAPs_for_speaker_recognition/main) project main page.
 
 # Acknowledgement
 Thanks to the valuable discussion with Jing Lin. Besides, thanks to the open source of [SincNet](https://github.com/mravanelli/SincNet), [Pytorch-Kaldi](https://github.com/mravanelli/pytorch-kaldi), [PESQ](https://github.com/vBaiCai/python-pesq).
