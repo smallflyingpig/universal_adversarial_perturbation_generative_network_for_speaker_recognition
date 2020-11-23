@@ -214,7 +214,7 @@ def prepare_data_for_speaker(data_root, output_dir, fs=16000, wlen=200, wshift=1
 
 def get_parser():
     parser = argparse.ArgumentParser("prepare dataset")
-    parser.add_argument("--type", choices=['speech', 'speaker'], default='speech', help="prepare data for speech or speaker")
+    parser.add_argument("--type", choices=['speech', 'speaker'], default='speaker', help="prepare data for speech or speaker")
     parser.add_argument("--data_root", type=str, default="./data/TIMIT/TIMIT_lower", help="root for TIMIT dataset")
     parser.add_argument("--output_dir", type=str, default="./data/TIMIT/TIMIT_lower/processed", help="")
     parser.add_argument("--fs", type=int, default=16000, help="sample rate")
